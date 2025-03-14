@@ -58,8 +58,5 @@ This script is useful in scenarios like:
 - **Controlling per-user bandwidth** in a shared network environment.
 - **Testing networking applications** with controlled bandwidth.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request.
